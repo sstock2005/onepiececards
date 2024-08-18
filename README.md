@@ -5,7 +5,7 @@ A simple One Piece TCG Card Database written in Rust!
 This was written by me to help my brother and I keep track of what One Piece TCG cards we have and how much they are worth.
 
 ## How To Use
-- Download release.exe
+- Download [release.exe](https://github.com/sstock2005/onepiececards/releases/download/v0.1.0/release.exe)
 - Hit Enter when it says it can't find the database
 - Type 1 and enter to search for a card you own
 - Type in your card name, it's better if you do like "{name} {booster pack}/{starter deck}"
