@@ -8,7 +8,7 @@ use util::{format_id, pause, save_db, Card, Database};
 mod util;
 mod html;
 
-const DB_LOC: &str = "card.json";
+const DB_LOC: &str = "cards.json";
 const CACHE_LOC: &str = "webcache.dat";
 
 fn main()
