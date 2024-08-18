@@ -1,0 +1,12 @@
+[package]
+name = "onepiececards"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+pause_console = "0.2.0"
+reqwest = { version = "0.12.5", features = ["blocking", "json"] }
+serde = { version = "1.0.206", features = ["serde_derive"] }
+serde_json = "1.0.124"
+text_io = "0.1.12"
