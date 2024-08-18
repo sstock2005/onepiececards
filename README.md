@@ -19,4 +19,4 @@ This was written by me to help my brother and I keep track of what One Piece TCG
 Sadly, [tcgplayer.com](https://tcgplayer.com) has closed their API and are not accepting new users, so I had to use the API their website uses!
 
 ## Can I see an exmaple report?
-[here!]()
+[here!](https://github.com/sstock2005/onepiececards/blob/master/report.html)
