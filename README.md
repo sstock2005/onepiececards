@@ -20,3 +20,4 @@ Sadly, [tcgplayer.com](https://tcgplayer.com) has closed their API and are not a
 
 ## Can I see an exmaple report?
 [here!](https://github.com/sstock2005/onepiececards/blob/master/report.html)
+![image](https://github.com/user-attachments/assets/c9900930-8335-428e-b823-38b718abae5e)
